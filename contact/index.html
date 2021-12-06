@@ -427,7 +427,19 @@ Let's have a meeting!</h2>		</div>
 		</section>
 						</div>
 					</div>
-		
+					<script type="text/javascript">
+						function configureAhoy() {
+						ahoy.configure({
+						visitsUrl: "https://usebasin.com/ahoy/visits",
+						eventsUrl: "https://usebasin.com/ahoy/events",
+						page: "eec7b690fff1" /* Use your form id here */
+						});
+						ahoy.trackView();
+						ahoy.trackSubmits();
+						}
+						</script>
+						 
+						<script src="https://cdn.jsdelivr.net/npm/ahoy.js@0.3.4/dist/ahoy.min.js" async defer onload="configureAhoy()" ></script>
 		
 		
 	</div>
