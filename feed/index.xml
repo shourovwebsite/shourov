@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
 	<url>./../wp-content/uploads/2021/09/cropped-Shourov-32x32.png</url>
@@ -32,7 +32,7 @@
 		<link>./../hello-world/index.html</link>
 					<comments>./../hello-world/index.html#comments</comments>
 		
-		<dc:creator><![CDATA[hasanshourov]]></dc:creator>
+		<dc:creator><![CDATA[Shourov]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 09:51:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">http:/?p=1</guid>
