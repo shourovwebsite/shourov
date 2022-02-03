@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Content writer &amp; Editor	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="http://www.shourov.website/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.shourov.website</link>
 	<description>Freelance Writer, SEO Expert &#38; Virtual Assistant</description>
 	<lastBuildDate>Sun, 15 Aug 2021 09:51:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>./../../hello-world/index.html#comment-1</link>
+		<link>http://www.shourov.website/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 09:51:00 +0000</pubDate>
